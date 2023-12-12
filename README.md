@@ -10,7 +10,7 @@ This project is a simple analog clock created with HTML, CSS, and JavaScript. It
 
 ## Demo
 
-You can view the live demo of the analog clock by following this [link](https://analogClock.github.io).
+You can view the live demo of the analog clock by following this [link](https://vishal2970.github.io/analogClock.github.io/).
 
 ## How It Works
 
