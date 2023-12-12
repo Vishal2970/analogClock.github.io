@@ -2,7 +2,7 @@
 
 Analog clock using HTML, CSS, and JavaScript.
 
-![Analog Clock]([https://github.com/Vishal2970/analogClock.github.io/assets/96405876/065aa89e-f0ea-420f-a8c4-350ed92a033a](https://vishal2970.github.io/analogClock.github.io/))
+![Analog Clock](https://github.com/Vishal2970/analogClock.github.io/assets/96405876/065aa89e-f0ea-420f-a8c4-350ed92a033a)
 
 ## Overview
 
